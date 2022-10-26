@@ -23,9 +23,9 @@
 
 <p align="center">
 <img align="center" width="400px" height="300px" src="./assets/captura.png" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/captura2.png" alt="mapa proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/home.png" alt="mapa proyecto"/>
 </p>
 <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/captura3.png" alt="borrado proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/captura4.png" alt="dashboard proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/profile.png" alt="borrado proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/chat.png" alt="dashboard proyecto"/>
 </p>
