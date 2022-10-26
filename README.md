@@ -22,10 +22,10 @@
 <a href="https://font-pf.vercel.app/" target="_blank"> https://font-pf.vercel.app/</a>
 
 <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/captura1.png" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/captura2.png" alt="mapa proyecto"/>
+<!-- <img align="center" width="400px" height="300px" src="./assets/captura.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/captura2.png" alt="mapa proyecto"/> -->
 </p>
 <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/captura3.png" alt="borrado proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/captura4.png" alt="dashboard proyecto"/>
+<!-- <img align="center" width="400px" height="300px" src="./assets/captura3.png" alt="borrado proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/captura4.png" alt="dashboard proyecto"/> -->
 </p>
