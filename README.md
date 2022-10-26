@@ -19,3 +19,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcanavari43&" alt="mcanavari43" /></p>
 
+<a href="https://font-pf.vercel.app/" target="_blank"> https://font-pf.vercel.app/</a>
+
+<p align="center">
+<img align="center" width="400px" height="300px" src="./assets/Captura1.PNG" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/Captura2.PNG" alt="mapa proyecto"/>
+</p>
+<p align="center">
+<img align="center" width="400px" height="300px" src="./assets/Captura3.PNG" alt="borrado proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/Captura4.PNG" alt="dashboard proyecto"/>
+</p>
