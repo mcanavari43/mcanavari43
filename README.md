@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manuel Ignacio Canavari</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola 👋, Soy Manuel Ignacio Canavari</h1>
+<h3 align="center">Apasiona por el mundo IT, actualmente estudiando Analista de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcanavari43&label=Profile%20views&color=0e75b6&style=flat" alt="mcanavari43" /> </p>
 
