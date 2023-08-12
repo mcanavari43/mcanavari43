@@ -1,9 +1,14 @@
 <h1 align="center">Hola 👋, Soy Manuel Ignacio Canavari</h1>
 <h3 align="center">Apasiona por el mundo IT, actualmente estudiando Analista de Sistemas</h3>
 
+<p>Me encuentro en busqueda activa de un proyecto que me desafie a seguir avanzando en mi carrera profesional, donde pueda trabajar con un equipo y seguir aplicando los conocimientos que voy aprendiendo</p>
+<p>Si te interesa mi perfil, no dudes en contactarme!</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcanavari43&label=Profile%20views&color=0e75b6&style=flat" alt="mcanavari43" /> </p>
 
 - 📫 How to reach me **manuel.canavari43@gmail.com**
+- Linkedin **https://www.linkedin.com/in/manuel-canavari/**
+- Portfolio: **https://portfolio-iu2u.onrender.com/#portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
